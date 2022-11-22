@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-top: 35px;
+  padding: 5%;
+}
+.part {
+  width: 6px;
+  background-color: #3441bc;
+}
+.container:hover {
+  box-shadow: rgba(109, 73, 255, 0.249) 0px 3px 8px;
+}

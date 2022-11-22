@@ -1,0 +1,58 @@
+{
+  "planetList": [
+    {
+      "origin": "Pune",
+      "departure": "Delhi",
+      "departtime": "0015",
+      "arrivaltime": "0145",
+      "flightdate": "28 Nov 22",
+      "price": "7500",
+      "flightno": "AI-201"
+    },
+    {
+      "origin": "Delhi",
+      "departure": "Pune",
+      "departtime": "1600",
+      "arrivaltime": "1530",
+      "flightdate": "28 Nov 22",
+      "price": "8000",
+      "flightno": "AI-291"
+    },
+    {
+      "origin": "Chandigarh",
+      "departure": "Bangalore",
+      "departtime": "1350",
+      "arrivaltime": "1230",
+      "flightdate": "29 Nov 22",
+      "price": "8500",
+      "flightno": "AI-241"
+    },
+    {
+      "origin": "Bangalore",
+      "departure": "Chandigarh",
+      "departtime": "1800",
+      "arrivaltime": "2030",
+      "flightdate": "30 Nov 22",
+      "price": "9500",
+      "flightno": "AI-237"
+    },
+    {
+      "origin": "Kolkata",
+      "departure": "Kashmir",
+      "departtime": "1350",
+      "arrivaltime": "1530",
+      "flightdate": "01 Dec 22",
+      "price": "7000",
+      "flightno": "AI-078"
+    },
+    {
+      "origin": "Kashmir",
+      "departure": "Kolkata",
+      "departtime": "2050",
+      "arrivaltime": "2330",
+      "flightdate": "05 Dec 22",
+      "price": "9900",
+      "flightno": "AI-110"
+    }
+  ]
+}

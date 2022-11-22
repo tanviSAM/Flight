@@ -1,0 +1,35 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.containerFlight {
+  width: 100%;
+  margin: auto;
+}
+.Header {
+  background-color: #3441bc;
+  padding: 2%;
+  color: snow;
+}
+.contentFlight {
+  width: 1200px;
+  display: flex;
+  margin: auto;
+}
+.formDetails {
+  width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+.form {
+  width: 600px;
+  margin: auto;
+  margin-top: 100px;
+}
+.form > input {
+  width: 500px;
+}
+.detFlg {
+  width: 1200px;
+  margin-top: 60px;
+}
